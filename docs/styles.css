@@ -96,6 +96,7 @@ footer {
 #index-page a#home, #index-page footer {
   display: none;
 }
+
 /* We move the github icon down to be next to the page title. This CSS is a bit fragile
  * if the height of the h1 changes due to other style changes. */
 #index-page nav {
@@ -107,8 +108,8 @@ footer {
   top: var(--padding);
 }
 
-#index-page nav a#github {
-  pointer-events: auto;
+#appendix {
+  border-top: 1px solid #ece6da;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -148,6 +149,10 @@ footer {
   }
   h2 {
     color: #ffd586;
+  }
+  #appendix {
+    border-top: 0;
+    background-color: #1b1b1b;
   }
 }
 
