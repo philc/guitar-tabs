@@ -2,9 +2,9 @@
 
     Am: 577555
     Bb: X88766
-    C: X35553 (This is how Justin played it. There are other shapes.)
+    C : X35553 (This is how Justin played it. There are other shapes.)
     Dm: X57765
-    F: 133211
+    F : 133211
 
     Verse (2x)
     F F Am Am Bb Bb
@@ -26,8 +26,7 @@
     There's nothing where he used to lie
     My conversation has run dry
     That's what's going on
-    Nothing's fine
-    I'm torn
+    Nothing's fine, I'm torn
 
     I'm all out of faith, this is how I feel
     I'm cold and I am shamed, lying naked on the floor
@@ -42,8 +41,7 @@
     I don't care, I have no luck
     I don't miss it all that much
     There's just so many things
-    That I can't touch
-    I'm torn
+    That I can't touch, I'm torn
 
     (Chorus)
 
