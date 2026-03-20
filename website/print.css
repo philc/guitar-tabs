@@ -1,0 +1,15 @@
+@page {
+  margin: 0.5in;
+}
+
+body {
+  font-family: "Palatino", "Palatino Linotype", "Georgia", "Serif";
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.no-print {
+  display: none;
+}
