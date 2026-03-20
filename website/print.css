@@ -10,6 +10,6 @@ h1 {
   font-size: 20px;
 }
 
-.no-print {
+#appendix, .no-print {
   display: none;
 }

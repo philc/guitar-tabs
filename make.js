@@ -15,6 +15,7 @@ async function generatePage(path) {
   let str = (new TextDecoder("UTF-8")).decode(bytes);
 
   let html = micromark(str, {
+    allowDangerousHtml: true, // allow raw HTMl to make it through to the final HTML.
     extensions: [gfm()],
     htmlExtensions: [gfmHtml()],
   });
