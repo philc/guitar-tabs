@@ -112,6 +112,10 @@ footer {
   border-top: 1px solid #ece6da;
 }
 
+#appendix p {
+  padding: 10px 0;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
