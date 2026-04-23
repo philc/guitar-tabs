@@ -23,9 +23,8 @@
     x70070 (E)
     x70080
 
-    Play A, B, A, then this chord:
-
-    x00080
+    For chorus, play A, B, A, then this chord: x00080, then outro
+    (or just skip that x00080 chord)
 
     Outro ("I know... you lost your trust")
     x90080 (F#m)
