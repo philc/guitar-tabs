@@ -1,0 +1,64 @@
+# Let My Love Open The Door - Pete Townsend
+
+    Capo 3
+    Verse:
+    A
+    x06450
+    x04230
+    (For a flourish, add another x06450 before A)
+
+    Chorus:
+    F#m   244222
+    E     022100
+    Dsus2 xx0230 (D with high E string open)
+
+    Bridge:
+    F#m   244222
+    Bm    224432
+    Esus4 x22200
+
+    Verse:
+    When people keep repeatin' \
+    That you'll never fall in love
+    When everybody keeps retreatin'
+    But you can't seem to get enough
+
+    Pre-chorus:
+    Let my love open the door x3
+    To your heart
+
+    Chorus:
+    (Let my love open the door, ooh)
+    Let my love open the door
+    (Let my love open the door, ooh)
+    Let my love open the door
+
+    Verse 2:
+    When everything feels all over
+    Everybody seems unkind
+    I'll give you a four-leaf clover
+    Take all worry out of your mind
+
+    (Chorus)
+
+    Bridge:
+    I have the only key to your heart
+    I can stop you fallin' apart
+    Try today, you'll find this way
+    Come on and give me a chance to say
+    Let my love open the door, it's all I'm livin' for
+    Release yourself from misery
+    There's only one thing
+    Gonna set you free
+    That's my love
+    That's my love
+
+    (Chorus)
+
+    Verse 3:
+    When tragedy befalls you
+    Don't let it drag you down
+    Love can cure your problems
+    You're so lucky I'm around
+
+    (Chorus)
