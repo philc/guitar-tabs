@@ -2,6 +2,9 @@
 
     Capo 2
 
+    Dsus2 xx0230 (D with high E string open)
+    Bm    x24432
+
     Intro:
     Dsus2 G Bm A G  (x2)
 
@@ -18,11 +21,8 @@
     Pre-Chorus:
     Bm   A    G
               Can't be held responsible
-    Bm   A        G
            'Cause she was touching her face
-    Bm   A    G
             I won't be held responsible
-    Bm   A            G
           She fell in love in the first place
 
     Chorus:
@@ -45,8 +45,7 @@
     And now he's guilt-stricken, sobbin' with his head on the floor
     Thinks about her now and how he never really wept, he says
 
-    (Pre-chorus)
-    (Chorus)
+    (Pre-chorus, chorus)
 
     Bridge:
     F#m   G   D   A (x4)
@@ -58,8 +57,7 @@
     And how we're guilt-stricken sobbin' with our heads on the floor
     We fell through the ice when we tried not to slip, we'd say
 
-    (Pre-chorus)
-    (Chorus)
+    (Pre-chorus, chorus)
     (Intro, as the outro)
 
 <div id="appendix">
