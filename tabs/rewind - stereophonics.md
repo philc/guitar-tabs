@@ -1,0 +1,133 @@
+# Rewind - Stereophonics
+
+<div class="two-column">
+
+<div>
+
+    G    : 320003
+    G/F# : 2x02x3
+    Dsus2: xx0230
+    Cadd9: x32030
+
+    Intro:
+
+    G Gmaj7 D C
+
+    Verse 1:
+    G
+    It's your time
+    Gmaj7
+    It's your day
+    D
+    It's never too late
+    C
+    To change lanes
+    G
+    How's your life?
+    Gmaj7
+    How's your place?
+    D
+    Was it where you wanted
+    C
+    Your head to lay?
+
+    Bridge:
+        G
+    But wait, you can breathe
+            Gmaj7
+    You can see what I can see
+            D
+    Don't waste your time
+                   C
+    You can't make back
+
+    Chorus:
+                 G           Gmaj7
+    If you could rewind your time
+    D                     C
+    Would you change your life?
+    G           Gma7
+    Rewind your time
+    D                     C
+    Would you change your life?
+
+    Verse 2:
+    G Gmaj7 D C (x2)
+
+    Do you -- like you?
+    Do you -- love your wife?
+    Or did you pick what
+    You're told was right?
+    Dream and be
+    What you feel
+    Don't you compromise
+    What you wanna be
+
+</div>
+<div>
+
+    Bridge:
+    G
+    'Cause change is okay
+               Gmaj7
+    What's the point in staying the same
+    D                               C
+    Regrets, forget what's dead and gone
+
+    (Chorus)
+
+    Verse 3:
+    G                       Gmaj7
+    If Jesus rode in on a camel today
+              D
+    With your cross on his shoulder
+            C
+    Time to take you away
+             G
+    Have you done all you wanted?
+            Gmaj7
+    Are you happy and warm?
+           D
+    Do you miss someone special
+              C
+    You don't see anymore?
+             G
+    Have you blood on your hands?
+               Gmaj7
+    Do you dream of white sands?
+            D
+    Can you sleep well at night?
+             C
+    Have you done all you can?
+            G
+    The place I was born in
+          Gmaj7
+    Stays crooked and straight
+          D
+    I see innocent blue eyes
+       C
+    Go blind everyday
+
+    (Chorus)
+
+    Outro (x3):
+    G      Gmaj7  D      C
+    Today? Today? Today? Today
+
+    Conclude on G x4
+
+</div>
+</div>
+
+<div id="appendix">
+
+* https://www.youtube.com/watch?v=3sbTqrtOtdk
+  * I'm using the G and Gmaj7 chords from the video rather than the tab, which has an impossible to
+    play gmaj7.
+  * An alternate Gmaj7 is 320032, but I see in the cover video he's using G/F# and it sounds good in
+    this progression.
+  * The video uses Dsus2 and Cadd9 instead of D and C.
+
+* https://tabs.ultimate-guitar.com/tab/stereophonics/rewind-chords-361654
+
+</div>

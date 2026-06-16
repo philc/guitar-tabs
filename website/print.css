@@ -13,3 +13,12 @@ h1 {
 #appendix, .no-print {
   display: none;
 }
+
+.two-column {
+  display: flex;
+  gap: 1rem;
+}
+
+.two-column > div {
+  flex: 1;
+}
