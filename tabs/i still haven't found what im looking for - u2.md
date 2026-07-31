@@ -1,76 +1,91 @@
 # I Still Haven't Found What I'm Looking For - U2
 
-    Capo 4
+    E    : 022100
+    Bsus4: x24400
+
     [Verse 1]
-    A       A               A
+    E       E               E
     I have climbed the highest mountains
-      A                    A
+      E                    E
     I have run through the fields
-            D
-    Only to be with you
             A
     Only to be with you
-    A       A              A
+            E
+    Only to be with you
+    E       E              E
     I have run I have crawled
-          A                A
+          E                E
     I have scaled these city walls
-              D
+              A
     These city walls
-            A
+            E
     Only to be with you
 
     [Chorus]
-    A           E             D
+    E           B             A
     But I still haven't found
-                A
+                E
     What I'm looking for
-              E             D
+              B             A
     But I still haven't found
-                A
+                E
     What I'm looking for
 
+<div class="two-column">
+<div>
+
     [Verse 2]
-          A           A
+          E           E
     I have kissed honey lips
-            A             A
+            E             E
     Felt the healing fingertips
-                  D
+                  A
     It burned like fire
-                  A
+                  E
     This burning desire
-    A      A                      A
+    E      E                      E
     I have spoke with the tongue of angels
-          A                  A
+          E                  E
     I have held the hand of a devil
-                  D
-    It was warm in the night
                   A
+    It was warm in the night
+                  E
     I was cold as a stone
 
     (Chorus)
 
+</div>
+<div>
+
     [Verse 3]
-    A A D A    A                   A
+    E E A E    E                   E
           I believe in the Kingdom come
-                A                      A
+                E                      E
     Then all the colors will bleed into one
-              D
+              A
     Bleed into one
-                      A
+                      E
     But yes, I'm still running
-    A              A
+    E              E
     You broke the bonds
-                    A
+                    E
     and you loosened chains
-              A           A            D
+              E           E            A
     carried the cross of my shame, of my shame
-                  A
+                  E
     You know I believe it
 
-    (Chorus), then Fade out: A
+    (Chorus)
+
+    Fade out: E
+
+</div>
+</div>
 
 <div id="appendix">
 
-  * Interesting alternate version on [YouTube](https://www.youtube.com/watch?v=Tn5dhu043uY)
+* Guitar lesson
+  [playlist](https://www.youtube.com/watch?v=mPENngxJD_Q&list=PL_MS9yTfSINXrNvEkR-hTRNzqYBeaJs4e)
+  * I like this version better than Marty's guitar and the official tab (which is A D E, capo 4).
 
 </div>
