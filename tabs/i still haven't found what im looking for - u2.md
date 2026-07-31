@@ -1,7 +1,6 @@
 # I Still Haven't Found What I'm Looking For - U2
 
     Capo 4
-
     [Verse 1]
     A       A               A
     I have climbed the highest mountains
@@ -20,7 +19,6 @@
             A
     Only to be with you
 
-
     [Chorus]
     A           E             D
     But I still haven't found
@@ -30,7 +28,6 @@
     But I still haven't found
                 A
     What I'm looking for
-
 
     [Verse 2]
           A           A
@@ -50,17 +47,7 @@
                   A
     I was cold as a stone
 
-
-    [Chorus]
-    A           E             D
-    But I still haven't found
-                A
-    What I'm looking for
-              E             D
-    But I still haven't found
-                        A
-    What I'm looking for
-
+    (Chorus)
 
     [Verse 3]
     A A D A    A                   A
@@ -80,29 +67,7 @@
                   A
     You know I believe it
 
-
-    [Chorus]
-    A           E             D
-    But I still haven't found
-                A
-    What I'm looking for
-              E             D
-    But I still haven't found
-                A
-    What I'm looking for
-              E             D
-    But I still haven't found
-                A
-    What I'm looking for
-              E             D
-    But I still haven't found
-                A      A A
-    What I'm looking for
-
-
-    [Fade Out]
-    A
-
+    (Chorus), then Fade out: A
 
 <div id="appendix">
 

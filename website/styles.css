@@ -1,5 +1,6 @@
 /* The colors are sepia; some drawn from here: https://www.color-hex.com/color-palette/92457 */
-html, body {
+html,
+body {
   margin: 0;
 }
 
@@ -21,7 +22,10 @@ body {
 }
 
 /* Center each of the main sections on the page. */
-#content, h1, nav, footer {
+#content,
+h1,
+nav,
+footer {
   margin: 0 auto;
   box-sizing: border-box;
   padding: 0 var(--padding);
@@ -32,7 +36,8 @@ h1 {
   font-size: 20px;
 }
 
-a, nav a:visited {
+a,
+nav a:visited {
   color: var(--link-color);
 }
 
@@ -62,7 +67,8 @@ a#github {
   border-bottom: 1px solid #ece6da;
 }
 
-li, p {
+li,
+p {
   text-align: justify;
   line-height: 1.5;
   margin: 1em 0;
@@ -93,7 +99,8 @@ footer {
 }
 
 /* Styles specificalaly for the index page. */
-#index-page a#home, #index-page footer {
+#index-page a#home,
+#index-page footer {
   display: none;
 }
 
@@ -134,14 +141,16 @@ footer {
   a:visited {
     color: var(--text-color);
   }
-  a:hover, nav a:hover {
+  a:hover,
+  nav a:hover {
     color: #ff725c;
   }
 
   a#github:hover img {
     opacity: 1.0;
   }
-  li, p {
+  li,
+  p {
     /* Slightly more space between lines. */
     line-height: 1.6;
     margin: 1.1em 0;
@@ -165,5 +174,13 @@ footer {
   /* Show less indentation in lists so there is less wrapping and better text justification. */
   ul {
     padding-left: 1.5em;
+  }
+
+  /* Don't display columns side by side on mobile; just scroll vertically. */
+  .columns {
+    display: block;
+  }
+  .columns > div {
+    flex: none;
   }
 }
