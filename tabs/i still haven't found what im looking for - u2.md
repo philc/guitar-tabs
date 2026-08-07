@@ -1,7 +1,8 @@
 # I Still Haven't Found What I'm Looking For - U2
 
-    E    : 022100
     Bsus4: x24400
+    Aadd9 : x02400
+    E     : 022100
 
     [Verse 1]
     E       E               E
@@ -84,8 +85,29 @@
 
 <div id="appendix">
 
+    "More interesting chord variations" from Mark's video:
+    Set 2:
+    E     : 022400 ("nice big drone"; I found this hard to play)
+    Aadd9 : x02400
+
+    High on the neck:
+    Eadd9 : 0-11-9-11-0-0
+    A6add9: X- 0-9-11-0-0
+    Badd4 : 799800 (It's a barre B chord, but the bottom strings are open)
+
+    Set 4
+    A     : 577600 (Same as Badd4, slid down
+    E     : 079900 (Similar to Badd4, down one string)
+
+    Mark plays this on the verse:
+    Eadd9 : 0-11-9-11-0-0
+    Aadd9 : x02400
+
+    Mark plays all over the place, but generally the high chords on the verse, set 2 on the chorus.
+
 * Guitar lesson
   [playlist](https://www.youtube.com/watch?v=mPENngxJD_Q&list=PL_MS9yTfSINXrNvEkR-hTRNzqYBeaJs4e)
-  * I like this version better than Marty's guitar and the official tab (which is A D E, capo 4).
+  * I like Mark's version better than Marty's guitar and the official tab (which is A D E, capo 4).
+  * [Here](https://youtu.be/V_HMB2X_C0A?si=-AKU7pyAMX8NrQIV) are the more nuanced versions.
 
 </div>
