@@ -1,8 +1,8 @@
 # I Still Haven't Found What I'm Looking For - U2
 
     Bsus4: x24400
-    Aadd9 : x02400
-    E     : 022100
+    Aadd9: x02400
+    E    : 022100
 
     [Verse 1]
     E       E               E
